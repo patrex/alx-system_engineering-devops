@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chmod -R u+rwX,go+rX,go-w ./ 
+sudo chmod -R u+rwX,go+rX ./ 
